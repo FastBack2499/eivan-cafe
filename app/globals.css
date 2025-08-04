@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+.rtl {
+  direction: rtl;
+}
+
+@theme inline {
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+  --font-vazir: var(--font-vazirmatn);
+  --font-almarai: var(--font-almarai);
+}
