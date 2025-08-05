@@ -12,77 +12,77 @@ export const hotCafeItems: {
   }[] = [
     {
       id: 1,
-      title: 'سینگل عربیکا',
+      title: 'اسپرسو عربیکا',
       prices: [
           {
           id: 1,
-          priceTitle: '100%',
+          priceTitle: 'سینگل',
           priceNum: 80
           },
           {
           id: 2,
-          priceTitle: '70/30%',
-          priceNum: 45
+          priceTitle: 'دبل',
+          priceNum: 90
           },
       ]
     },
     {
       id: 2,
-      title: 'سینگل روبوستا',
+      title: 'اسپرسو ربوستا',
       prices: [
           {
           id: 1,
-          priceTitle: '50/50%',
-          priceNum: 55
+          priceTitle: 'سینگل',
+          priceNum: 40
           },
           {
           id: 2,
-          priceTitle: '100%',
-          priceNum: 40
+          priceTitle: 'دبل',
+          priceNum: 50
           },
       ]
     },
     {
       id: 3,
-      title: 'دبل عربیکا',
+      title: 'اسپرسو 50/50',
       prices: [
           {
           id: 1,
-          priceTitle: '100%',
-          priceNum: 90
+          priceTitle: 'سینگل',
+          priceNum: 55
           },
           {
           id: 2,
-          priceTitle: '70/30%',
-          priceNum: 55
+          priceTitle: 'دبل',
+          priceNum: 65
           },
       ]
     },
     {
       id: 4,
-      title: 'دبل روبوستا',
+      title: 'اسپرسو 70/30',
       prices: [
           {
           id: 1,
-          priceTitle: '50/50%',
-          priceNum: 65
+          priceTitle: 'سینگل',
+          priceNum: 45
           },
           {
           id: 2,
-          priceTitle: '100%',
-          priceNum: 50
+          priceTitle: 'دبل',
+          priceNum: 55
           },
       ]
     },
     {
       id: 5,
       title: 'آمیرکانو',
-      description: 'کافئین بالا روبوستا<br/>کافئین پایین عربیکا',
+      description: 'کافئین بالا (100 ربوستا، 70/30)<br/>کافئین پایین (100 عربیکا، 50/50)',
       prices: [
           {
           id: 1,
           priceTitle: 'کافئین بالا',
-          priceNum: 60
+          priceNum: 66
           },
           {
           id: 2,
@@ -95,7 +95,7 @@ export const hotCafeItems: {
     {
       id: 6,
       title: 'لاته',
-      description: 'کافئین بالا روبوستا<br/>کافئین پایین عربیکا',
+      description: 'کافئین بالا (100 ربوستا، 70/30)<br/>کافئین پایین (100 عربیکا، 50/50)',
       prices: [
           {
           id: 1,
@@ -112,7 +112,7 @@ export const hotCafeItems: {
     {
       id: 7,
       title: 'موکا',
-      description: 'کافئین بالا روبوستا<br/>کافئین پایین عربیکا',
+      description: 'کافئین بالا (100 ربوستا، 70/30)<br/>کافئین پایین (100 عربیکا، 50/50)',
       prices: [
           {
           id: 1,
@@ -129,7 +129,7 @@ export const hotCafeItems: {
     {
       id: 8,
       title: 'کاپوچینو',
-      description: 'کافئین بالا روبوستا<br/>کافئین پایین عربیکا',
+      description: 'کافئین بالا (100 ربوستا، 70/30)<br/>کافئین پایین (100 عربیکا، 50/50)',
       prices: [
           {
           id: 1,
@@ -146,7 +146,7 @@ export const hotCafeItems: {
     {
       id: 9,
       title: 'فلت وایت',
-      description: 'کافئین بالا روبوستا<br/>کافئین پایین عربیکا',
+      description: 'کافئین بالا (100 ربوستا، 70/30)<br/>کافئین پایین (100 عربیکا، 50/50)',
       prices: [
           {
           id: 1,
@@ -163,7 +163,7 @@ export const hotCafeItems: {
     {
       id: 10,
       title: 'کورتادو',
-      description: 'کافئین بالا روبوستا<br/>کافئین پایین عربیکا',
+      description: 'کافئین بالا (100 ربوستا، 70/30)<br/>کافئین پایین (100 عربیکا، 50/50)',
       prices: [
           {
           id: 1,
@@ -176,8 +176,26 @@ export const hotCafeItems: {
           priceNum: 95
           },
       ]
-    },{
+    },
+    {
       id: 11,
+      title: 'آفوگاتو',
+      description: 'اسپرسو با بستنی<br/>کافئین بالا (100 ربوستا، 70/30)<br/>کافئین پایین (100 عربیکا، 50/50)',
+      prices: [
+          {
+          id: 1,
+          priceTitle: 'کافئین بالا',
+          priceNum: 90
+          },
+          {
+          id: 2,
+          priceTitle: 'کافئین پایین',
+          priceNum: 105
+          },
+      ]
+    },
+    {
+      id: 12,
       title: 'سیروپ',
       description: 'کارامل، فندق، وانیل، آیریش',
       price: 15
