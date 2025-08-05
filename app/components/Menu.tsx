@@ -12,7 +12,7 @@ const Menu = () => {
 
       <Element name='hotcafe' className='flex flex-col items-center justify-center gap-y-3 w-full'>
 
-          <div className='flex items-center justify-center py-1 px-2 rounded-full bg-black/15'>
+          <div className='flex items-center justify-center py-1 px-4 rounded-full bg-black/5'>
 
             <h2 className='font-semibold'>
               بارگرم اسپرسو
@@ -105,3 +105,4 @@ const Menu = () => {
 }
 
 export default Menu
+
