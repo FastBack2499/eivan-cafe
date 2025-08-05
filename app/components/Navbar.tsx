@@ -4,7 +4,7 @@ import ScrollableVerticMenu from './ScrollableVerticMenu'
 const Navbar = () => {
 
   return (
-    <nav className='flex flex-col items-center justify-center w-full py-3 bg-white/50 backdrop-blur-lg fixed z-50 top-0 gap-y-[15px]'>
+    <nav className='flex flex-col items-center justify-center w-full pt-3 bg-orange-200/50 backdrop-blur-lg fixed z-50 top-0 gap-y-[15px]'>
       
       <div className='flex flex-row-reverse items-center justify-center w-full gap-x-1'>
 
