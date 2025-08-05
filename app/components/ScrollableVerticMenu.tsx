@@ -15,7 +15,7 @@ const ScrollableVerticMenu: React.FC<ScrollableMenuProps> = ({
   scrollItems
 }) => {
   return (
-    <div className="w-full overflow-x-auto bg-white/50 p-4 rounded-md shadow-md drop-shadow-md">
+    <div className="w-full overflow-x-auto rtl bg-white/50 p-4 rounded-md shadow-md drop-shadow-md">
 
       <div className="flex flex-row sm:items-center sm:justify-center whitespace-nowrap">
 
@@ -44,4 +44,5 @@ const ScrollableVerticMenu: React.FC<ScrollableMenuProps> = ({
 }
 
 export default ScrollableVerticMenu
+
 
