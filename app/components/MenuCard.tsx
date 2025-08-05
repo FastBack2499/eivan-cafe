@@ -20,7 +20,7 @@ const MenuCard: React.FC<MenuCardProps> = ({
   prices
 }) => {
   return (
-    <div className='flex items-center justify-center flex-wrap flex-col p-2 bg-black/15 rounded-lg gap-y-2 shadow-lg backdrop-blur-md min-w-[313.56px]'>
+    <div className='flex items-center justify-center flex-wrap flex-col p-2 bg-black/15 rounded-lg gap-y-2 shadow-lg backdrop-blur-md min-w-[332.41px]'>
 
       <div className="flex items-start justify-between w-full text-center relative">
 
