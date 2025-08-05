@@ -13,12 +13,18 @@ export const scrollItems = [
     },
     {
       id: 3,
+      title: 'نوشیدنی گرم',
+      icon: '/hotDrink.png',
+      link: 'hotdrink'
+    },
+    {
+      id: 4,
       title: 'نوشیدنی سرد',
       icon: '/Coldpng.png',
       link: 'colddrink'
     },
     {
-      id: 4,
+      id: 5,
       title: 'چای و دمنوش',
       icon: '/Tee.png',
       link: 'tee'
