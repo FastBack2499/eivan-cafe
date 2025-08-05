@@ -12,27 +12,27 @@ export const coldDrinkItems: {
   }[] = [
     {
       id: 1,
-      title: 'وانیل',
+      title: 'شیک وانیل',
       price: 90
     },
     {
       id: 2,
-      title: 'شکلات',
+      title: 'شیک شکلات',
       price: 110
     },
     {
       id: 3,
-      title: 'کره بادوم زمینی',
+      title: 'شیک پینات',
       price: 150
     },
     {
       id: 4,
-      title: 'لوتوس',
+      title: 'شیک لوتوس',
       price: 160
     },
     {
       id: 5,
-      title: 'نوتلا',
+      title: 'شیک نوتلا',
       price: 160
     },
   ]
