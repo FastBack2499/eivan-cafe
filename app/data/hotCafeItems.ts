@@ -11,11 +11,11 @@ export const hotCafeItems: {
     }[]
   }[] = [
     {
-      id: 1,
+      id: 4,
       title: 'اسپرسو عربیکا',
       prices: [
           {
-          id: 1,
+          id: ,
           priceTitle: 'سینگل',
           priceNum: 75
           },
@@ -27,7 +27,7 @@ export const hotCafeItems: {
       ]
     },
     {
-      id: 2,
+      id: 1,
       title: 'اسپرسو ربوستا',
       prices: [
           {
@@ -59,7 +59,7 @@ export const hotCafeItems: {
       ]
     },
     {
-      id: 4,
+      id: 2,
       title: 'اسپرسو 70/30',
       prices: [
           {
