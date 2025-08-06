@@ -15,7 +15,7 @@ export const hotCafeItems: {
       title: 'اسپرسو عربیکا',
       prices: [
           {
-          id: ,
+          id: 1,
           priceTitle: 'سینگل',
           priceNum: 75
           },
