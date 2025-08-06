@@ -29,4 +29,11 @@ export const scrollItems = [
       icon: '/Tee.png',
       link: 'tee'
     },
+    {
+      id: 6,
+      title: 'کیک و کوکی',
+      icon: '/cake.png',
+      link: 'cake'
+    },
   ]
+
