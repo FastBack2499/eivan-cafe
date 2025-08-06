@@ -3,6 +3,7 @@ import { coldDrinkItems } from '../data/coldDrinkItems';
 import { hotCafeItems } from '../data/hotCafeItems';
 import { hotDrinkItems } from '../data/hotDrinkItems';
 import { teeItems } from '../data/teeItems';
+import { cakeItems } from '../data/cakeItems';
 import Element from '../lib/Element'
 import MenuCard from './MenuCard';
 
@@ -123,6 +124,7 @@ const Menu = () => {
 }
 
 export default Menu
+
 
 
 
