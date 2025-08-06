@@ -100,10 +100,29 @@ const Menu = () => {
 
       </Element>
 
+      <Element name='cake' className='flex flex-col items-center justify-center gap-y-3'>
+
+        <div className='flex items-center justify-center py-1 px-4 rounded-full bg-black/5'>
+
+            <h2 className='font-semibold'>
+              کیک و کوکی
+            </h2>
+
+          </div>
+
+          <div className='grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-5 w-full'>
+          {cakeItems.map((item) => (
+            <MenuCard key={item.id} title={item.title} description={item.description} picture={item.picture} price={item.price} prices={item.prices}/>
+          ))}
+        </div>
+
+      </Element>
+
     </main>
   )
 }
 
 export default Menu
+
 
 
