@@ -11,24 +11,24 @@ export const hotCafeItems: {
     }[]
   }[] = [
     {
-      id: 4,
-      title: 'اسپرسو عربیکا',
+      id: 1,
+      title: 'اسپرسو ربوستا',
       prices: [
           {
           id: 1,
           priceTitle: 'سینگل',
-          priceNum: 75
+          priceNum: 40
           },
           {
           id: 2,
           priceTitle: 'دبل',
-          priceNum: 90
+          priceNum: 55
           },
       ]
     },
     {
-      id: 1,
-      title: 'اسپرسو ربوستا',
+      id: 2,
+      title: 'اسپرسو 70/30',
       prices: [
           {
           id: 1,
@@ -59,18 +59,18 @@ export const hotCafeItems: {
       ]
     },
     {
-      id: 2,
-      title: 'اسپرسو 70/30',
+      id: 4,
+      title: 'اسپرسو عربیکا',
       prices: [
           {
           id: 1,
           priceTitle: 'سینگل',
-          priceNum: 40
+          priceNum: 75
           },
           {
           id: 2,
           priceTitle: 'دبل',
-          priceNum: 55
+          priceNum: 90
           },
       ]
     },
