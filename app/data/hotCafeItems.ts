@@ -17,7 +17,7 @@ export const hotCafeItems: {
           {
           id: 1,
           priceTitle: 'سینگل',
-          priceNum: 80
+          priceNum: 75
           },
           {
           id: 2,
@@ -38,7 +38,7 @@ export const hotCafeItems: {
           {
           id: 2,
           priceTitle: 'دبل',
-          priceNum: 50
+          priceNum: 55
           },
       ]
     },
@@ -49,7 +49,7 @@ export const hotCafeItems: {
           {
           id: 1,
           priceTitle: 'سینگل',
-          priceNum: 55
+          priceNum: 50
           },
           {
           id: 2,
@@ -65,7 +65,7 @@ export const hotCafeItems: {
           {
           id: 1,
           priceTitle: 'سینگل',
-          priceNum: 45
+          priceNum: 40
           },
           {
           id: 2,
