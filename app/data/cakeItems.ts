@@ -12,7 +12,7 @@ export const cakeItems: {
   }[] = [
   {
     id: 1,
-    title: 'کوکی',
+    title: 'کوکی کوچک',
     price: 15
   },
 ]
