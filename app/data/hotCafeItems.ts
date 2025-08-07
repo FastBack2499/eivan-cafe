@@ -96,6 +96,7 @@ export const hotCafeItems: {
       id: 6,
       title: 'لاته',
       description: 'کافئین بالا (100 ربوستا، 70/30)<br/>کافئین پایین (100 عربیکا، 50/50)',
+      picture: '/ItemsPics/CafeLatte.webp',
       prices: [
           {
           id: 1,
@@ -113,6 +114,7 @@ export const hotCafeItems: {
       id: 7,
       title: 'موکا',
       description: 'کافئین بالا (100 ربوستا، 70/30)<br/>کافئین پایین (100 عربیکا، 50/50)',
+      picture: '/ItemsPics/CafeLatte.webp',
       prices: [
           {
           id: 1,
@@ -201,3 +203,4 @@ export const hotCafeItems: {
       price: 15
     },
   ]
+
