@@ -48,7 +48,7 @@ const Menu = () => {
 
       </Element>
 
-      <Element name='hotdrink' className='flex flex-col items-center justify-center gap-y-3'>
+      <Element name='matcha' className='flex flex-col items-center justify-center gap-y-3'>
 
         <div className='flex items-center justify-center py-1 px-4 rounded-full bg-black/5'>
 
@@ -143,6 +143,7 @@ const Menu = () => {
 }
 
 export default Menu
+
 
 
 
