@@ -185,12 +185,12 @@ export const hotCafeItems: {
           {
           id: 1,
           priceTitle: 'کافئین بالا',
-          priceNum: 90
+          priceNum: 94
           },
           {
           id: 2,
           priceTitle: 'کافئین پایین',
-          priceNum: 105
+          priceNum: 119
           },
       ]
     },
