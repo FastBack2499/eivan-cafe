@@ -13,27 +13,34 @@ export const scrollItems = [
     },
     {
       id: 3,
+      title: 'ماچا بار',
+      icon: '/matcha.png',
+      link: 'matcha'
+    },
+    {
+      id: 4,
       title: 'نوشیدنی گرم',
       icon: '/hotDrink.png',
       link: 'hotdrink'
     },
     {
-      id: 4,
+      id: 5,
       title: 'نوشیدنی سرد',
       icon: '/Coldpng.png',
       link: 'colddrink'
     },
     {
-      id: 5,
+      id: 6,
       title: 'چای و دمنوش',
       icon: '/Tee.png',
       link: 'tee'
     },
     {
-      id: 6,
+      id: 7,
       title: 'کیک و کوکی',
       icon: '/cake.png',
       link: 'cake'
     },
   ]
+
 
