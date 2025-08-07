@@ -24,7 +24,7 @@ const MenuCard: React.FC<MenuCardProps> = ({
 
       <div className="flex items-start justify-between w-full text-center relative">
 
-        <AntdImage src={picture ? picture : '/EivanCafe.jpg'} alt={title} preview={picture ? true : false} width={140} height={140} className='absolute rounded-lg right-0 p-1 '/>
+        <AntdImage src={picture ? picture : '/EivanCafe.jpg'} alt={title} preview={false} width={140} height={140} className='absolute rounded-lg right-0 p-1 '/>
 
         <div className='rtl flex flex-col items-start justify-center gap-y-5 text-right p-2 rounded-lg '>
 
@@ -75,3 +75,4 @@ const MenuCard: React.FC<MenuCardProps> = ({
 }
 
 export default MenuCard
+
