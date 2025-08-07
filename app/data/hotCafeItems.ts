@@ -76,7 +76,7 @@ export const hotCafeItems: {
     },
     {
       id: 5,
-      title: 'آمیرکانو',
+      title: 'آمریکانو',
       description: 'کافئین بالا (100 ربوستا، 70/30)<br/>کافئین پایین (100 عربیکا، 50/50)',
       prices: [
           {
