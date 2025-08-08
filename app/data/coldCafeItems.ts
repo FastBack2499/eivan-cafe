@@ -14,6 +14,7 @@ export const coldCafeItems: {
       id: 1,
       title: 'آیس لاته',
       description: 'کافئین بالا (100 ربوستا، 70/30)<br/>کافئین پایین (100 عربیکا، 50/50)',
+      picture: '/ItemsPics/IceLatte.webp',
       prices: [
           {
           id: 1,
@@ -31,6 +32,7 @@ export const coldCafeItems: {
       id: 2,
       title: 'آیس موکا',
       description: 'کافئین بالا (100 ربوستا، 70/30)<br/>کافئین پایین (100 عربیکا، 50/50)',
+      picture: '/ItemsPics/IceMoka.webp',
       prices: [
           {
           id: 1,
@@ -62,3 +64,4 @@ export const coldCafeItems: {
       ]
     }
   ]
+
