@@ -22,17 +22,24 @@ export const coldDrinkItems: {
     },
     {
       id: 3,
+      title: 'شیک اسپرسو',
+      price: 128,
+      picture: '/ItemsPics/CafeShake.webp',
+    },
+    {
+      id: 4,
       title: 'شیک پینات',
       price: 150
     },
     {
-      id: 4,
+      id: 5,
       title: 'شیک لوتوس',
       price: 160
     },
     {
-      id: 5,
+      id: 6,
       title: 'شیک نوتلا',
       price: 160
     },
   ]
+
