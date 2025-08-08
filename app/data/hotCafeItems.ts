@@ -13,6 +13,7 @@ export const hotCafeItems: {
     {
       id: 1,
       title: 'اسپرسو ربوستا',
+      picture: '/ItemsPics/Double.webp',
       prices: [
           {
           id: 1,
@@ -29,6 +30,7 @@ export const hotCafeItems: {
     {
       id: 2,
       title: 'اسپرسو 70/30',
+      picture: '/ItemsPics/Double.webp',
       prices: [
           {
           id: 1,
@@ -45,6 +47,7 @@ export const hotCafeItems: {
     {
       id: 3,
       title: 'اسپرسو 50/50',
+      picture: '/ItemsPics/Double.webp',
       prices: [
           {
           id: 1,
@@ -61,6 +64,7 @@ export const hotCafeItems: {
     {
       id: 4,
       title: 'اسپرسو عربیکا',
+      picture: '/ItemsPics/Double.webp',
       prices: [
           {
           id: 1,
@@ -203,4 +207,5 @@ export const hotCafeItems: {
       price: 15
     },
   ]
+
 
