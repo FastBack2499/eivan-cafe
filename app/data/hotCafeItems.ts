@@ -17,12 +17,12 @@ export const hotCafeItems: {
           {
           id: 1,
           priceTitle: 'سینگل',
-          priceNum: 40
+          priceNum: 35
           },
           {
           id: 2,
           priceTitle: 'دبل',
-          priceNum: 55
+          priceNum: 50
           },
       ]
     },
