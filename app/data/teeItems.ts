@@ -13,7 +13,7 @@ export const teeItems: {
     {
       id: 1,
       title: 'چای',
-      price: 50
+      price: 53
     },
     {
       id: 2,
