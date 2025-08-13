@@ -4,6 +4,7 @@ import { hotCafeItems } from '../data/hotCafeItems';
 import { matchaItems } from '../data/matchaItems';
 import { hotDrinkItems } from '../data/hotDrinkItems';
 import { breakfestItems } from '../data/breakfestItems';
+import { mocktailItems } from '../data/mocktailItems';
 import { teeItems } from '../data/teeItems';
 import { cakeItems } from '../data/cakeItems';
 import Element from '../lib/Element'
@@ -85,12 +86,30 @@ const Menu = () => {
 
       </Element>
 
+      <Element name='mocktail' className='flex flex-col items-center justify-center gap-y-3'>
+
+        <div className='flex items-center justify-center py-1 px-4 rounded-full bg-black/5'>
+
+            <h2 className='font-semibold'>
+              ماکتل
+            </h2>
+
+          </div>
+
+          <div className='grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-5 w-full'>
+          {mocktailItems.map((item) => (
+            <MenuCard key={item.id} title={item.title} description={item.description} picture={item.picture} price={item.price} prices={item.prices}/>
+          ))}
+        </div>
+
+      </Element>
+
       <Element name='colddrink' className='flex flex-col items-center justify-center gap-y-3'>
 
         <div className='flex items-center justify-center py-1 px-4 rounded-full bg-black/5'>
 
             <h2 className='font-semibold'>
-              نوشیدنی سرد
+              شیک
             </h2>
 
           </div>
@@ -162,6 +181,7 @@ const Menu = () => {
 }
 
 export default Menu
+
 
 
 
