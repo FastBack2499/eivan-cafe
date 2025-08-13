@@ -12,12 +12,17 @@ export const mocktailItems: {
   }[] = [
   {
     id: 1,
+    title: 'لیموناد',
+    price: 58
+  },
+  {
+    id: 2,
     title: 'اورنج پانچ',
     price: 62
   },
   {
-    id: 2,
-    title: 'لیموناد',
+    id: 3,
+    title: 'اوشن کرش',
     price: 62
   },
 ]
