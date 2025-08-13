@@ -24,7 +24,6 @@ export const coldDrinkItems: {
       id: 3,
       title: 'شیک اسپرسو',
       price: 128,
-      picture: '/ItemsPics/CafeShake.webp',
     },
     {
       id: 4,
@@ -42,4 +41,5 @@ export const coldDrinkItems: {
       price: 160
     },
   ]
+
 
