@@ -3,6 +3,7 @@ import { coldDrinkItems } from '../data/coldDrinkItems';
 import { hotCafeItems } from '../data/hotCafeItems';
 import { matchaItems } from '../data/matchaItems';
 import { hotDrinkItems } from '../data/hotDrinkItems';
+import { breakfestItems } from '../data/breakfestItems';
 import { teeItems } from '../data/teeItems';
 import { cakeItems } from '../data/cakeItems';
 import Element from '../lib/Element'
@@ -149,7 +150,7 @@ const Menu = () => {
           </div>
 
           <div className='grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-5 w-full'>
-          {cakeItems.map((item) => (
+          {breakfestItems.map((item) => (
             <MenuCard key={item.id} title={item.title} description={item.description} picture={item.picture} price={item.price} prices={item.prices}/>
           ))}
         </div>
@@ -161,6 +162,7 @@ const Menu = () => {
 }
 
 export default Menu
+
 
 
 
