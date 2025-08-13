@@ -49,6 +49,7 @@ export const coldCafeItems: {
     {
       id: 3,
       title: 'آیس آمریکانو',
+      picture: '/ItemsPics/iceAmerikano.webp',
       description: 'کافئین بالا (100 ربوستا، 70/30)<br/>کافئین پایین (100 عربیکا، 50/50)',
       prices: [
           {
@@ -64,4 +65,5 @@ export const coldCafeItems: {
       ]
     }
   ]
+
 
