@@ -41,6 +41,13 @@ export const scrollItems = [
       icon: '/cake.png',
       link: 'cake'
     },
+    {
+      id: 8,
+      title: 'صبحانه',
+      icon: '/breakfast.png',
+      link: 'breakfest'
+    },
   ]
+
 
 
