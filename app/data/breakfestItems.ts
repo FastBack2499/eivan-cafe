@@ -13,6 +13,6 @@ export const breakfestItems: {
   {
     id: 1,
     title: 'املت',
-    price: 85
+    price: 82
   },
 ]
