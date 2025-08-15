@@ -13,7 +13,7 @@ export const coldDrinkItems: {
     {
       id: 1,
       title: 'شیک وانیل',
-      price: 90
+      price: 100
     },
     {
       id: 2,
