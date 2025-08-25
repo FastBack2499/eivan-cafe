@@ -13,7 +13,7 @@ export const mocktailItems: {
   {
     id: 1,
     title: 'لیموناد',
-    price: ۶۱
+    price: 61
   },
   {
     id: 2,
