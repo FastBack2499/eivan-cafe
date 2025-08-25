@@ -15,4 +15,9 @@ export const cakeItems: {
     title: 'کوکی کوچک',
     price: 15
   },
+  {
+    id: 2,
+    title: 'چیز کیک',
+    price: 98
+  },
 ]
