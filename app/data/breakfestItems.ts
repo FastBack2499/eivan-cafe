@@ -19,6 +19,7 @@ export const breakfestItems: {
     id: 2,
     title: 'تست بوقلمون',
     description: 'به همراه سس پستو',
+    picture: '/ItemsPics/turkeySandwich.webp',
     price: 116
   },
 ]
