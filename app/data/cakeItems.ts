@@ -17,6 +17,11 @@ export const cakeItems: {
   },
   {
     id: 2,
+    title: 'کوکی گردویی',
+    price: 65
+  },
+  {
+    id: 3,
     title: 'چیز کیک',
     price: 98
   },
