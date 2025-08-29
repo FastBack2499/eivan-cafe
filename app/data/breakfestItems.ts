@@ -15,4 +15,9 @@ export const breakfestItems: {
     title: 'املت',
     price: 82
   },
+  {
+    id: 2,
+    title: 'ساندویچ بوقلمون پستو',
+    price: 116
+  },
 ]
