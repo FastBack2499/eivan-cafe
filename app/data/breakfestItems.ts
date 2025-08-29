@@ -17,7 +17,8 @@ export const breakfestItems: {
   },
   {
     id: 2,
-    title: 'ساندویچ بوقلمون پستو',
+    title: 'تست بوقلمون',
+    description: 'به همراه سس پستو',
     price: 116
   },
 ]
