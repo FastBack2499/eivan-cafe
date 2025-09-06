@@ -13,7 +13,7 @@ export const cakeItems: {
   {
     id: 1,
     title: 'کوکی کوچک',
-    price: 15
+    price: 20
   },
   {
     id: 2,
