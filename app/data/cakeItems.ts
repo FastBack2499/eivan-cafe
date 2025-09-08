@@ -23,6 +23,6 @@ export const cakeItems: {
   {
     id: 3,
     title: 'چیز کیک',
-    price: 98
+    price: 118
   },
 ]
