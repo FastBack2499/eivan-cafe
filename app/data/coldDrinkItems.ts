@@ -28,7 +28,7 @@ export const coldDrinkItems: {
     {
       id: 4,
       title: 'شیک پینات',
-      price: 150
+      price: 160
     },
     {
       id: 5,
