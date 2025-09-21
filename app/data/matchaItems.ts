@@ -17,7 +17,7 @@ export const matchaItems: {
   },
     {
     id: 2,
-    title: 'آیس ماچا لاته',
+    title: 'آیسد ماچا لاته',
       price: 114
   },
 ]
