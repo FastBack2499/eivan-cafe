@@ -12,7 +12,7 @@ export const coldCafeItems: {
   }[] = [
     {
       id: 1,
-      title: 'آیس لاته',
+      title: 'آیسد لاته',
       description: 'کافئین بالا (100 ربوستا، 70/30)<br/>کافئین پایین (100 عربیکا، 50/50)',
       picture: '/ItemsPics/IceLatte.webp',
       prices: [
@@ -30,7 +30,7 @@ export const coldCafeItems: {
     },
     {
       id: 2,
-      title: 'آیس موکا',
+      title: 'آیسد موکا',
       description: 'کافئین بالا (100 ربوستا، 70/30)<br/>کافئین پایین (100 عربیکا، 50/50)',
       picture: '/ItemsPics/IceMoka.webp',
       prices: [
@@ -48,7 +48,7 @@ export const coldCafeItems: {
     },
     {
       id: 3,
-      title: 'آیس آمریکانو',
+      title: 'آیسد آمریکانو',
       picture: '/ItemsPics/iceAmerikano.webp',
       description: 'کافئین بالا (100 ربوستا، 70/30)<br/>کافئین پایین (100 عربیکا، 50/50)',
       prices: [
